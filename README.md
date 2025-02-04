@@ -1,14 +1,14 @@
 <div align="center">
-  <img height="320" src="https://i.ibb.co.com/zHWPhqbM/github-Banner-Atef-Abrar.gif"  />
+  <img height="400" src="https://i.ibb.co.com/zHWPhqbM/github-Banner-Atef-Abrar.gif"  />
 </div>
 
 ###
 
-<h2 align="center">Hello There!<br>I am Md. Atef Abrar Bhuyian<br>MERN Stack Developer</h2>
+<h1 align="center">Hello There! I am Md. Atef Abrar Bhuyian | MERN Stack Developer</h1>
 
 ###
 
-<h3 align="center">ABOUT ME</h3>
+<h2 align="center">ABOUT ME</h2>
 
 ###
 
@@ -20,7 +20,16 @@
 
 ###
 
-<h3 align="center">I CODE WITH</h3>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=Atef-Abrar-Bhuyian&theme=highcontrast&border_radius=10" alt="GitHub Streak">
+</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Atef-Abrar-Bhuyian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="center">I CODE WITH</h2>
 
 ###
 
@@ -52,7 +61,7 @@
 
 ###
 
-<h3 align="center">CONNECT WITH ME</h3>
+<h2 align="center">CONNECT WITH ME</h2>
 
 ###
 
@@ -66,13 +75,6 @@
   <a href="https://x.com/atef_abrar00" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atef-Abrar-Bhuyian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Atef-Abrar-Bhuyian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
