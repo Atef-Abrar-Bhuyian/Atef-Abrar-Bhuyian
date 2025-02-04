@@ -8,6 +8,17 @@
 
 ###
 
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=Atef-Abrar-Bhuyian&theme=highcontrast&border_radius=10" alt="GitHub Streak">
+</a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Atef-Abrar-Bhuyian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <h2 align="center">ABOUT ME</h2>
 
 ###
@@ -18,14 +29,8 @@
 
 <p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning MERN stack & building projects<br>🎯 Goals: Become a full-stack developer<br>🎲 Fun fact: I love playing competitive video games</p>
 
-###
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app?user=Atef-Abrar-Bhuyian&theme=highcontrast&border_radius=10" alt="GitHub Streak">
-</a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Atef-Abrar-Bhuyian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
