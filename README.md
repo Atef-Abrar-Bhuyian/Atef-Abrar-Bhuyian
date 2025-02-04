@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/zHWPhqbM/github-Banner-Atef-Abrar.gif"  />
+  <img height="420" src="https://i.ibb.co.com/zHWPhqbM/github-Banner-Atef-Abrar.gif"  />
 </div>
 
 ###
 
-<h1 align="center">Hello There! I am Md. Atef Abrar Bhuyian | MERN Stack Developer</h1>
+<h1 align="center">Hello There! I am Md. Atef Abrar Bhuyian <br> MERN Stack Developer</h1>
 
 ###
 
