@@ -29,9 +29,16 @@
 
 ###
 
-<p align="left">🚀 Exploring Next.js <br> 🔧 Currently working on [Bistro Boss](https://bistroboss-84f46.web.app/) <br> 
-✨ Dedicated to developing efficient and scalable web applications<br>📚 I'm currently learning MERN stack & building projects<br>💻 Committed to continuous learning and skill improvement<br>🌱 Always exploring new technologies and industry best practices<br>🎯 Goals: Become a full-stack developer<br>🎲 Fun fact: I love playing competitive video games</p>
-
+<p align="left">
+  🚀 Exploring Next.js <br>
+  🔧 Currently working on <a href="https://bistroboss-84f46.web.app/">Bistro Boss</a><br>
+  ✨ Dedicated to developing efficient and scalable web applications<br>
+  📚 I'm currently learning MERN stack & building projects<br>
+  💻 Committed to continuous learning and skill improvement<br>
+  🌱 Always exploring new technologies and industry best practices<br>
+  🎯 Goals: Become a full-stack developer<br>
+  🎲 Fun fact: I love playing competitive video games
+</p>
 
 
 
