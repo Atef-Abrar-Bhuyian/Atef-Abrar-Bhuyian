@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="420" src="https://i.ibb.co.com/zHWPhqbM/github-Banner-Atef-Abrar.gif"  />
-</div>
+![I am GitHub Readme Generator's creator]("./atef_abrar_bhuyian.gif")
+
 
 ###
 
