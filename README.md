@@ -89,9 +89,13 @@
 <h2 align="center">📞 Contact Information</h2>
 
 ###
+<p align="left">
+  📧 Email: [abrarbhuyian8@gmail.com](mailto:abrarbhuyian8@gmail.com)<br>
+  <a href="tel:+8801576408535">📞 Phone: +8801576408535</a>
+  </p>
 
-- 📧 Email: [abrarbhuyian8@gmail.com](mailto:abrarbhuyian8@gmail.com)  
-- 📞 Phone: [+8801576408535](tel:+8801576408535)
+ 
+ 
 
 
 
