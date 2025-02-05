@@ -24,7 +24,8 @@
 
 ###
 
-<p align="center">Hi, I’m Md. Atef Abrar Bhuyian, a MERN stack developer passionate about building web applications and improving my skills. I enjoy solving problems, learning new technologies, and creating efficient solutions.</p>
+<p align="center">Hi, I’m Md. Atef Abrar Bhuyian, a MERN stack developer who loves building web applications and learning new things. I enjoy solving problems, writing clean code, and making websites work smoothly. I am comfortable with **React, Tailwind CSS, Express.js, Node.js, MongoDB, and Firebase**. Whether front-end design or back-end development, I’m always looking to improve my skills and explore new technologies.
+</p>
 
 ###
 
@@ -90,9 +91,9 @@
 
 ###
 <p align="left">
-  📧 Email: [abrarbhuyian8@gmail.com](mailto:abrarbhuyian8@gmail.com)<br>
-  <a href="tel:+8801576408535">📞 Phone: +8801576408535</a>
-  </p>
+  📧 Email: <a href="mailto:abrarbhuyian8@gmail.com">abrarbhuyian8@gmail.com</a><br>
+  📞 Phone: +8801576408535
+</p>
 
  
  
