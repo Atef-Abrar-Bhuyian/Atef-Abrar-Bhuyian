@@ -100,7 +100,7 @@
 ###
 <p align="left">
   📧 Email: <a href="mailto:abrarbhuyian8@gmail.com">abrarbhuyian8@gmail.com</a><br>
-  📞 Phone: +8801576408535
+  📞 Phone: +8801576408535 <br>
   🔗 Portfolio: <a href="https://atef-abrar-bhuyian.netlify.app/">Md. Atef Abrar Bhuyian</a><br>
 </p>
 
