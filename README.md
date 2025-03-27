@@ -30,8 +30,8 @@
 ###
 
 <p align="left">
-  🚀 Exploring Next.js <br>
-  🔧 Currently working on <a href="https://brain-zap-99226.web.app/">Brainzap</a><br>
+  🚀 Exploring GraphQL <br>
+  🔧 Currently working on <a href="https://brain-zap-99226.web.app/">Brainzap</a> with Team CodeXplorers<br>
   ✨ Dedicated to developing efficient and scalable web applications<br>
   📚 I'm currently learning MERN stack & building projects<br>
   💻 Committed to continuous learning and skill improvement<br>
