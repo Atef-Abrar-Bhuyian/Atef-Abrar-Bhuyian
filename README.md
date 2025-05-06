@@ -31,7 +31,7 @@
 
 <p align="left">
   🚀 Exploring GraphQL <br>
-  🔧 Currently working on <a href="https://brain-zap-99226.web.app/">Brainzap</a> with Team CodeXplorers<br>
+  🔧 Currently working on <a href="https://brain-zap-99226.web.app/">Brainzap</a> with <a href="https://github.com/CodeXplorers-PH">Team CodeXplorers</a><br>
   ✨ Dedicated to developing efficient and scalable web applications<br>
   📚 I'm currently learning MERN stack & building projects<br>
   💻 Committed to continuous learning and skill improvement<br>
