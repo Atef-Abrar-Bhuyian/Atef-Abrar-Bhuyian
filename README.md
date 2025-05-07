@@ -24,7 +24,7 @@
 
 ###
 
-<p align="center">Hi, I’m Md. Atef Abrar Bhuyian, a MERN stack developer who loves building web applications and learning new things. I enjoy solving problems, writing clean code, and making websites work smoothly. I am comfortable with **React, Tailwind CSS, Express.js, Node.js, MongoDB, and Firebase**. I am also interested in **AI Integration**. Whether front-end design or back-end development, I’m always looking to improve my skills and explore new technologies.
+<p align="center">Hi, I’m Md. Atef Abrar Bhuyian, a MERN stack developer who loves building web applications and learning new things. I enjoy solving problems, writing clean code, and making websites work smoothly. I am comfortable with React, Tailwind CSS, Express.js, Node.js, MongoDB, and Firebase. I am also interested in AI Integration. Whether front-end design or back-end development, I’m always looking to improve my skills and explore new technologies.
 </p>
 
 ###
